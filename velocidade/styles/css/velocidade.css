@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/velocidade/styles/images/fundo.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.corpo{
+    background-color: #526D82;
+    border: 35px solid  black ;
+    border-radius: 25px;
+    padding: 2%;
+}
+
+.botoes{
+    padding: 8% 15%;
+    text-align: center;
+}
+
+h1{
+    color: #F2BE22;
+    background-color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 1%;
+    text-align: center;
+}
+
+p{
+    background-color: white;
+    border-radius: 15px;
+    color: #025464;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5%;
+    padding: 2%;
+}
+
+input{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 3%;
+    text-align: center;
+}
+
+#resultado{
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    font-size: 25px;
+    margin-top: 5%;
+    padding: 3%;
+}

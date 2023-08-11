@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(/nacional/styles/imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
